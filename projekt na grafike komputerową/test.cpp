@@ -30,7 +30,6 @@ int obiekty = 0;
 
 int main()
 {
-	//sprawdzam czy dziala
 	// Initialize GLFW
 	glfwInit();
 
